@@ -11,3 +11,11 @@ a:hover{
   text-decoration: none;
   color:#666;
 }
+.load {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.load img{
+  width: 600px;
+}

@@ -18,7 +18,7 @@ const Followers = ({followers}) => {
     <div>
       {
         loading ? 
-        <div><img src={loadingGif} alt="loading..." /></div>
+        <div className= "load"><img src={loadingGif} alt="loading..." /></div>
         :
         <div>
           <Container>
