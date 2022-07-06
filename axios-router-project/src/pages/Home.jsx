@@ -9,7 +9,7 @@ const Home = () => {
   const [search,setSearch]=useState("")
 
   const getFollowers = async()=>{
-    const {data} = await axios.get("https://api.github.com/users/anthonyharold67/followers?per_page=100")
+    const {data} = await axios.get("https://api.github.com/users/yaserdemet/followers?per_page=100")
     setAllFollowers(data)
     console.log(data)
   }
