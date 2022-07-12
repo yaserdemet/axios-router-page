@@ -19,7 +19,7 @@ npm i styled-components or yarn add styled-components
 ### Projede Kullanılacak olan Api
 [Github Api](https://docs.github.com/en/rest/users)
 Buradan biz followers kısmını alacağız .
-[GithubAPiFollowers](https://api.github.com/users/anthonyharold67/followers?per_page=100)
+[GithubAPiFollowers](https://api.github.com/users/yaserdemet/followers?per_page=100)
 
 Api nin verdği farklı veriler de var isteyen inceleyip proje oluşturabilir ona göre.
 
