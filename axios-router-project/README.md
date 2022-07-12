@@ -1,9 +1,12 @@
 # Axios-Router Project
+![Animation](https://user-images.githubusercontent.com/99739515/178567472-be8b2df8-906d-4351-ba3d-2612d197d18a.gif)
 
 ###Project Tree
 ![project](projecttree.jpg)
 
 ### Kullanılan Paketler
+
+
 ```
 axios,
 react-router-dom,
