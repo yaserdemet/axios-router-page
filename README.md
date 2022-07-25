@@ -1,7 +1,30 @@
 # Axios-Router Project
 ![Animation](https://user-images.githubusercontent.com/99739515/178567472-be8b2df8-906d-4351-ba3d-2612d197d18a.gif)
 
+### At the end of the project, i will have covered these topics;
 
+🛠 Props and State Logic
+
+🛠 React Hooks ( useState, useEffect, useNavigate, useLocation )
+ 
+🛠 Global State Management ( Context Api )
+
+🛠 Private Router
+
+🛠 React Router Pages
+
+🛠 3rd Part Libraries ( Axios )
+
+🛠 Crypto apiKeys in .env files
+
+🛠 Deployment with Vercel and Netlify
+
+
+### At the end of the project, i will be able to;
+
+✅ improve coding skills within HTML & CSS & JS & ReactJS.
+
+✅ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ### Kullanılan Paketler
 
