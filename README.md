@@ -19,6 +19,10 @@
 
 🛠 Deployment with Vercel and Netlify
 
+🛠 Conditional Rendering
+
+🛠 Pagination
+
 
 ### At the end of the project, i will be able to;
 
